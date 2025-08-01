@@ -24,7 +24,7 @@ English | [繁體中文](./i18n/README-TW.md) | [简体中文](./i18n/README-ZH.
 ___
 # PDF Portfolio - Arry Hutomo
 
-![Portfolio Cover](https://github.com/arry-hutomo/Flowiseme_ARRYHUTOMO/blob/main/PDF_PORTFOLIO_ARRY_HUTOMO.pdf?raw=true)
+[portfolio](https://github.com/arry-hutomo/Flowiseme_ARRYHUTOMO/blob/main/PDF_PORTFOLIO_ARRY_HUTOMO.pdf?raw=true)
 
 ## Tentang
 Repositori ini berisi portofolio profesional Arry Hutomo dalam format PDF. Portofolio ini mencakup pengalaman kerja, keterampilan, proyek yang telah dikerjakan, dan informasi kontak.
