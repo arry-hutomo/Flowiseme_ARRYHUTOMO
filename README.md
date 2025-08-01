@@ -21,6 +21,32 @@ English | [繁體中文](./i18n/README-TW.md) | [简体中文](./i18n/README-ZH.
 <a href="https://github.com/FlowiseAI/Flowise">
 <img width="100%" src="https://github.com/FlowiseAI/Flowise/blob/main/images/flowise_agentflow.gif?raw=true"></a>
 
+___
+# PDF Portfolio - Arry Hutomo
+
+![Portfolio Cover](https://github.com/arry-hutomo/Flowiseme_ARRYHUTOMO/blob/main/PDF_PORTFOLIO_ARRY_HUTOMO.pdf?raw=true)
+
+## Tentang
+Repositori ini berisi portofolio profesional Arry Hutomo dalam format PDF. Portofolio ini mencakup pengalaman kerja, keterampilan, proyek yang telah dikerjakan, dan informasi kontak.
+
+## Isi Portofolio
+- **Profil Singkat**: Latar belakang pendidikan dan profesional.
+- **Pengalaman Kerja**: Riwayat pekerjaan dan tanggung jawab.
+- **Keterampilan**: Daftar kemampuan teknis dan non-teknis.
+- **Proyek-Proyek**: Deskripsi proyek yang telah diselesaikan.
+- **Kontak**: Informasi untuk menghubungi Arry Hutomo.
+
+## Cara Mengunduh
+Klik [di sini](https://github.com/arry-hutomo/Flowiseme_ARRYHUTOMO/blob/main/PDF_PORTFOLIO_ARRY_HUTOMO.pdf) untuk melihat atau mengunduh PDF Portofolio.
+
+## Lisensi
+Portofolio ini adalah hak milik Arry Hutomo. Dilarang menggunakan konten dalam portofolio ini untuk keperluan komersial tanpa izin tertulis dari pemilik.
+
+## Kontak
+- Email: [Arry_Hutomo](arry.hutomo@ptnin.com)
+- LinkedIn: [Arry Hutomo](https://www.linkedin.com/in/arryhutomo)
+- GitHub: [arry-hutomo](https://github.com/arry-hutomo)
+___
 ## 📚 Table of Contents
 
 - [⚡ Quick Start](#-quick-start)
